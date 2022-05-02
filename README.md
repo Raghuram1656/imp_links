@@ -18,3 +18,8 @@ Workplace:
 
 Semantic Search:
 1. https://github.com/rom1504/awesome-semantic-search
+
+
+Sampling:
+1. https://code-examples.net/en/q/2a1221f
+

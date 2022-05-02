@@ -32,3 +32,13 @@ Pytorch:
 
 Tips & Tricks:
 1. https://dphi.tech/blog/some-essential-hacks-and-tricks-for-machine-learning-with-python/
+
+
+Interview Questions:
+1. https://github.com/milaan9/DataScience_Interview_Questions/blob/main/DataScience_Interview_Questions.pdf
+2. https://github.com/sandipanpaul21/Data-Science-Interview-Question-Bank-Day1-Day30-iNeuron/blob/master/150%20Essential%20Data%20Science%20Questions%20and%20Answers.pdf
+3. https://github.com/milaan9/DataScience_Interview_Questions/blob/main/10_Linkedin_Skill_Assessment_Python.ipynb
+4. https://github.com/saichandrareddy1/Interview-Questions
+5. https://github.com/kojino/120-Data-Science-Interview-Questions
+6. https://github.com/MukundAabha/Data_Science_ML_DL_NLP_Interview_Qus
+7. https://github.com/aershov24/machine-learning-ds-interview-questions

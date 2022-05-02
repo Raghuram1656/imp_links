@@ -9,4 +9,10 @@ Data Science Topics:
 
 Workplace:
 1. https://examples.yourdictionary.com/examples-of-jargon-in-the-workplace.html
+2. https://www.indeed.com/career-advice/career-development/jargons-in-business
+3. https://vatraining.remote-learner.net/pluginfile.php/62954/mod_page/content/42/Introduction%20to%20Data%20Analytics%20Course%20Glossary.pdf
+
+
+
+
 

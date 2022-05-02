@@ -7,6 +7,8 @@ Data Science Topics:
 3. https://e2eml.school/blog.html
 
 
+Deep Learning:
+1. https://github.com/d2l-ai/d2l-en
 
 
 Workplace:

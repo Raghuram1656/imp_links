@@ -8,6 +8,7 @@ Data Science Topics:
 
 
 
+
 Workplace:
 1. https://examples.yourdictionary.com/examples-of-jargon-in-the-workplace.html
 2. https://www.indeed.com/career-advice/career-development/jargons-in-business
@@ -24,3 +25,8 @@ Semantic Search:
 Sampling:
 1. https://code-examples.net/en/q/2a1221f
 
+Pytorch:
+1. https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/
+
+Tips & Tricks:
+1. https://dphi.tech/blog/some-essential-hacks-and-tricks-for-machine-learning-with-python/

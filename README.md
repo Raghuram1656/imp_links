@@ -16,3 +16,5 @@ Workplace:
 
 
 
+Semantic Search:
+1. https://github.com/rom1504/awesome-semantic-search

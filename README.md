@@ -21,6 +21,9 @@ Huggingface-custom:
 1. https://www.youtube.com/watch?v=u--UVvH-LIQ
 
 
+Transformers Easy Explanations:
+1. https://www.youtube.com/watch?v=4Bdc55j80l8
+
 Semantic Search:
 1. https://github.com/rom1504/awesome-semantic-search
 

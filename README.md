@@ -29,6 +29,7 @@ Sampling:
 
 Pytorch:
 1. https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/
+2. https://github.com/ritchieng/the-incredible-pytorch
 
 Tips & Tricks:
 1. https://dphi.tech/blog/some-essential-hacks-and-tricks-for-machine-learning-with-python/

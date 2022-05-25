@@ -17,7 +17,8 @@ Workplace:
 3. https://vatraining.remote-learner.net/pluginfile.php/62954/mod_page/content/42/Introduction%20to%20Data%20Analytics%20Course%20Glossary.pdf
 
 
-
+Huggingface-custom:
+1. https://www.youtube.com/watch?v=u--UVvH-LIQ
 
 
 Semantic Search:

@@ -19,6 +19,8 @@ Workplace:
 
 Huggingface-custom:
 1. https://www.youtube.com/watch?v=u--UVvH-LIQ
+2. https://huggingface.co/docs/transformers/notebooks  (example notebooks)
+3. https://sgugger.github.io/category/basics.html (sylvian Gugger Blog)
 
 
 Transformers Easy Explanations:
@@ -34,6 +36,7 @@ Sampling:
 Pytorch:
 1. https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/
 2. https://github.com/ritchieng/the-incredible-pytorch
+3. https://sgugger.github.io/a-neural-net-in-pytorch.html#a-neural-net-in-pytorch (Neural Net in pytorch)
 
 Tips & Tricks:
 1. https://dphi.tech/blog/some-essential-hacks-and-tricks-for-machine-learning-with-python/
@@ -49,3 +52,6 @@ Interview Questions:
 7. https://github.com/aershov24/machine-learning-ds-interview-questions
 8. https://github.com/rbhatia46/Data-Science-Interview-Resources (Best)
 
+
+Following:
+1. https://github.com/sgugger

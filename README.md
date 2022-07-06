@@ -51,6 +51,7 @@ Interview Questions:
 6. https://github.com/MukundAabha/Data_Science_ML_DL_NLP_Interview_Qus
 7. https://github.com/aershov24/machine-learning-ds-interview-questions
 8. https://github.com/rbhatia46/Data-Science-Interview-Resources (Best)
+9. https://github.com/nivu/ai_all_resources(Another Best One)
 
 
 Following:
